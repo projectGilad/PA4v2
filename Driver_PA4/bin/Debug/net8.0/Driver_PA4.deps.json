@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Driver_PA4/1.0.0": {
+        "runtime": {
+          "Driver_PA4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Driver_PA4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

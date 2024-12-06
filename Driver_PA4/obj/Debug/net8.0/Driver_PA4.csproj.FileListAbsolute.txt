@@ -1,0 +1,14 @@
+/Users/giladd./Documents/GitHub/CS5011/PA4/PA4v2/Driver_PA4/bin/Debug/net8.0/Driver_PA4
+/Users/giladd./Documents/GitHub/CS5011/PA4/PA4v2/Driver_PA4/bin/Debug/net8.0/Driver_PA4.deps.json
+/Users/giladd./Documents/GitHub/CS5011/PA4/PA4v2/Driver_PA4/bin/Debug/net8.0/Driver_PA4.runtimeconfig.json
+/Users/giladd./Documents/GitHub/CS5011/PA4/PA4v2/Driver_PA4/bin/Debug/net8.0/Driver_PA4.dll
+/Users/giladd./Documents/GitHub/CS5011/PA4/PA4v2/Driver_PA4/bin/Debug/net8.0/Driver_PA4.pdb
+/Users/giladd./Documents/GitHub/CS5011/PA4/PA4v2/Driver_PA4/obj/Debug/net8.0/Driver_PA4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giladd./Documents/GitHub/CS5011/PA4/PA4v2/Driver_PA4/obj/Debug/net8.0/Driver_PA4.AssemblyInfoInputs.cache
+/Users/giladd./Documents/GitHub/CS5011/PA4/PA4v2/Driver_PA4/obj/Debug/net8.0/Driver_PA4.AssemblyInfo.cs
+/Users/giladd./Documents/GitHub/CS5011/PA4/PA4v2/Driver_PA4/obj/Debug/net8.0/Driver_PA4.csproj.CoreCompileInputs.cache
+/Users/giladd./Documents/GitHub/CS5011/PA4/PA4v2/Driver_PA4/obj/Debug/net8.0/Driver_PA4.dll
+/Users/giladd./Documents/GitHub/CS5011/PA4/PA4v2/Driver_PA4/obj/Debug/net8.0/refint/Driver_PA4.dll
+/Users/giladd./Documents/GitHub/CS5011/PA4/PA4v2/Driver_PA4/obj/Debug/net8.0/Driver_PA4.pdb
+/Users/giladd./Documents/GitHub/CS5011/PA4/PA4v2/Driver_PA4/obj/Debug/net8.0/Driver_PA4.genruntimeconfig.cache
+/Users/giladd./Documents/GitHub/CS5011/PA4/PA4v2/Driver_PA4/obj/Debug/net8.0/ref/Driver_PA4.dll
